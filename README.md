@@ -1,2 +1,5 @@
 # hello-world
-Just another repository 
+
+Howdy Partners!
+
+cout << "I like pizza and long walks on the moon." << endl;
