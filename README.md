@@ -2,4 +2,4 @@
 
 Howdy Partners!
 
-cout << "I really enjoy pizza and long walks on the moon" << endl;
+I like pizza and long walks on the moon.
